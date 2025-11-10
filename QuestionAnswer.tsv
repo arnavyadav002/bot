@@ -1,0 +1,31 @@
+Question	Answer
+How do I update Topic Definitions for Discord analytics? (Query 1)	To update Topic Definitions for Discord analytics, go to the Analytics dashboard, select 'Topic Definitions', and edit or add new topics as needed. For details, see: https://docs.withblaze.app/blaze/analytics/topic-definitions
+How can I start a Twitter DM campaign? (Query 2)	To start a Twitter DM campaign, navigate to Campaigns > Twitter DM Campaign in your Blaze dashboard and follow the setup guide. More info: https://docs.withblaze.app/blaze/campaigns/twitter-dm-campaign
+How do I integrate Blaze with my Discord server? (Query 3)	Go to Integrations in your Blaze dashboard, select Discord, and follow the authentication steps. Refer to: https://docs.withblaze.app/blaze/integrations/discord
+What analytics does Blaze provide for Twitter? (Query 4)	Blaze provides analytics such as engagement rates, follower growth, and campaign performance for Twitter. See: https://docs.withblaze.app/blaze/analytics/twitter
+How can I contact Blaze support? (Query 5)	You can contact Blaze support via the in-app chat or by emailing support@withblaze.app. More options: https://intercom.help/blaze-3d9c6d1123fd/en/
+How do I add a new team member to my Blaze workspace? (Query 6)	Go to Workspace Settings > Team Members, click 'Add Member', and enter their email address.
+What is the pricing for Blaze? (Query 7)	Blaze offers tiered pricing starting at $35/month. See all plans here: https://withblaze.app/pricing
+How do I reset my Blaze account password? (Query 8)	Click 'Forgot Password' on the login page and follow the instructions sent to your email.
+Can Blaze schedule posts automatically? (Query 9)	Yes, Blaze allows you to schedule posts for supported platforms. Go to Campaigns > Schedule Post and set your desired time.
+Where can I find Blaze's API documentation? (Query 10)	Blaze's API documentation is available at: https://docs.withblaze.app/blaze/api
+Can I edit a Blaze form after creating it? (Query 11)	Yes, you can edit a Blaze form. Go to 'Forms' and click the 'Edit Form' button on the bottom right of the form's tab.
+How do I embed a Blaze form on my website? (Query 12)	Go to 'Forms,' click the 'Embed' button on the top right of the form's tab, copy the iframe code, and contact Blaze support to enable your domain for embedding.
+How do I close a Blaze form for entries? (Query 13)	Go to 'Forms,' select the form you wish to close, and click the 'Close Form' button at the top.
+Can I view deleted Blaze forms? (Query 14)	Yes. Go to 'Forms' and click on 'Deleted Forms' beside 'Active Forms' to view deleted forms.
+How do I generate a custom Discord analytics report? (Query 15)	Go to the Discord Analytics section, select the metrics you want, set the report frequency, and define the topics to include in your custom report.
+What types of topics can Blaze analyze in Discord communities? (Query 16)	Blaze can analyze topics such as bug reports, feedback, payments, rewards, scams, subscriptions, user interface, voting, account issues, order management, refunds, and pricing.
+How do I find topics discussed by my Discord community? (Query 17)	Use the Trend Explorer page in Discord Analytics to explore topics over time. Blaze automatically tags messages with pre-defined topics, and Premium users can customize these topics.
+Can Blaze forms be deleted? (Query 18)	Yes, go to 'Forms' and click the 'Delete Form' button on the bottom right of the form's tab.
+How do I edit the onboarding form after creating a rewards campaign? (Query 19)	Go to the activity tracker page, click 'Edit Campaign,' then 'Edit Form,' make changes, and click 'Update.' A success message will confirm the update.
+How do I edit the quest page after creating a rewards campaign? (Query 20)	Go to the activity tracker page, click 'Edit Campaign,' then 'Edit Quest,' make changes, and click 'Update.' A success message will confirm the update.
+Can users redeem points as rewards? (Query 21)	Yes, users can redeem their points as rewards in the form of NFTs based on their leaderboard standing.
+How do I get a Blaze API key? (Query 22)	Go to Settings  API Key  Generate API key. Alternatively, email Blaze support from your registered account email. Turnaround is typically under 24 hours.
+What is the Blaze API endpoint for community management? (Query 23)	Use the GraphQL endpoint: http://dashboard.withblaze.app/api/graphql-api for community management, CRM, and wallet intelligence.
+What authentication is required for Blaze API? (Query 24)	Include your API key in the request headers as `x-api-key`.
+How do I upload a lead segment in Blaze? (Query 25)	You can upload segments manually or by uploading a CSV file with the required data through the segments page.
+Can I create sub-segments from a segment? (Query 26)	Yes, go to the segments page, click 'Saved' segments, select a segment, apply filters, and click 'Create segment' to define a sub-segment.
+How often is Twitter and Discord integration data refreshed in Blaze? (Query 27)	Twitter and Discord integration data are refreshed every 24 hours.
+What blockchains does Blaze support for lead generation? (Query 28)	Blaze currently supports Ethereum, Arbitrum, BSC, Optimism, and Polygon for lead generation and segmenting.
+How can I request a custom audience segment in Blaze? (Query 29)	Go to the 'Find Leads' page, click 'Request Assisted Segment,' fill out the form, and the Blaze team will respond within 48 hours.
+How do I exclude previously saved leads from a segment? (Query 30)	Click the ellipsis next to the filters panel, select the checkbox for 'Exclude previously saved leads,' and click 'Apply.'

@@ -1,0 +1,34 @@
+Question	Answer
+How do I update Topic Definitions for Discord analytics?	To update Topic Definitions for Discord analytics, go to the Analytics dashboard, select 'Topic Definitions', and edit or add new topics as needed. For details, see: https://docs.withblaze.app/blaze/analytics/topic-definitions
+How can I start a Twitter DM campaign?	To start a Twitter DM campaign, navigate to Campaigns > Twitter DM Campaign in your Blaze dashboard and follow the setup guide. More info: https://docs.withblaze.app/blaze/campaigns/twitter-dm-campaign
+How do I integrate Blaze with my Discord server?	Go to Integrations in your Blaze dashboard, select Discord, and follow the authentication steps. Refer to: https://docs.withblaze.app/blaze/integrations/discord
+What analytics does Blaze provide for Twitter?	Blaze provides analytics such as engagement rates, follower growth, and campaign performance for Twitter. See: https://docs.withblaze.app/blaze/analytics/twitter
+How can I contact Blaze support?	You can contact Blaze support via the in-app chat or by emailing support@withblaze.app. More options: https://intercom.help/blaze-3d9c6d1123fd/en/
+How do I add a new team member to my Blaze workspace?	Go to Workspace Settings > Team Members, click 'Add Member', and enter their email address.
+What is the pricing for Blaze?	Blaze offers tiered pricing starting at $35/month. See all plans here: https://withblaze.app/pricing
+How do I reset my Blaze account password?	Click 'Forgot Password' on the login page and follow the instructions sent to your email.
+Can Blaze schedule posts automatically?	Yes, Blaze allows you to schedule posts for supported platforms. Go to Campaigns > Schedule Post and set your desired time.
+Where can I find Blaze's API documentation?	Blaze's API documentation is available at: https://docs.withblaze.app/blaze/api
+Does Blaze support multi-language communities?	Yes! Blaze can analyze Discord/Twitter messages in multiple languages. Configure language settings in Workspace > Preferences.
+How do I track ROI from Blaze campaigns?	Use the Campaign Performance dashboard to track metrics like conversions, engagement, and revenue generated.
+How do I set up automated Twitter replies?	Navigate to Campaigns > Automated Replies and configure triggers/responses based on keywords or user actions.
+Can I export Blaze analytics data to CSV?	Yes. All analytics dashboards have an "Export" button for CSV/Excel downloads.
+How do I filter spam messages in Discord analytics?	Enable "Spam Detection" in Topic Definitions to auto-flag suspicious messages.
+What’s the difference between Blaze Free and Pro plans?	Free includes basic analytics; Pro adds custom topics, API access, and priority support. Compare: https://withblaze.app/pricing
+How do I whitelist Blaze’s IP for API access?	Email support@withblaze.app with your server IP, and we’ll whitelist it within 24 hours.
+Why is my Discord integration not syncing?	Check bot permissions in Discord and re-authenticate in Blaze. If issues persist, contact support.
+Can Blaze analyze private Discord channels?	No, Blaze only accesses channels where its bot has explicit read permissions.
+How do I delete my Blaze account?	Email support@withblaze.app with "Account Deletion" in the subject line.
+How do I enable two-factor authentication (2FA)?	Go to Account Settings > Security and follow the 2FA setup prompts.
+Does Blaze have a mobile app?	Not yet, but the web dashboard is mobile-optimized. A mobile app is planned for 2024.
+How do I merge duplicate leads in Blaze?	Use the "Merge Leads" tool in the CRM section to combine duplicate entries.
+Can I use Blaze for non-crypto communities?	Yes! Blaze works for any Discord/Twitter community, including gaming, SaaS, and e-commerce.
+How do I create a custom Discord bot command?	Use Blaze’s Developer Mode to script custom commands. Guide: https://docs.withblaze.app/blaze/integrations/custom-bot
+What’s the max file size for CSV uploads?	100MB per file. Split larger files into chunks.
+How do I tag users in automated Twitter DMs?	Use {{username}} in your DM template to dynamically insert the recipient’s handle.
+Can I use Blaze with Slack?	Not currently. Blaze only supports Discord and Twitter (with more platforms coming soon).
+How do I bulk-import leads from a CRM?	Use the CSV template under Segments > Import Leads to map fields correctly.
+Is Blaze GDPR-compliant?	Yes. Blaze follows GDPR guidelines for data processing. Read our policy: https://withblaze.app/privacy
+Hi!	Hello! How can I help you today? 😊
+Hey!	Hi there! Ask me anything about Blaze. 
+What’s up?	I’m here to help with Blaze! Try asking about analytics, campaigns, or integrations.
